@@ -1,0 +1,52 @@
+    html {
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url("backgr.jpg");
+	background-size: cover;
+}
+
+h1,
+h2 {
+	font-family: "Barlow Condensed", sans-serif;
+	margin-bottom: 15px;
+	color: black;
+}
+
+main {
+	margin-top: 10%;
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 25px;
+	border-radius: 5px;
+    background: rgba(255, 255, 255, 0.3);
+    font-size: 1.2rem;
+}
+
+
+
+.margin {
+	margin-top: 30px;
+}
+
+.container {
+	margin-top: 60px;
+
+	justify-content: center;
+}
+
+.wrapper {
+	margin-top: 5%;
+}
+
+
+p {
+	color: #800020;
+	font-size: 18px;
+}
+
+
+
